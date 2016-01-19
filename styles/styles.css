@@ -68,7 +68,7 @@ li {
 	/*margin: 15px 0 15px 30px;*/
 	font-size: 12px;
 	font-weight: 300;
-	line-height: 19px;
+	line-height: 17px;
 	text-align: left;
 }
 
@@ -91,12 +91,12 @@ p {
 	max-width: 800px;
 	background: white;
 	margin-top: 40px;
-	height: 1020px;
+	height: 960px;
 }
 
 .container-fluid {
 	background: #2B2B2B;
-	height: 1100px;
+	height: 1040px;
 }
 
 .education {
